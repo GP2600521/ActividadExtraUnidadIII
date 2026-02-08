@@ -1,0 +1,13 @@
+Resumen Primera Unidad
+
+Sistema binario:
+La computadora toma decisiones basadas en un sistema binario la cual está conformada por 0's y 1's.
+La lógica nos brinda los lineamientos o reglas que se necesitan para determinar si un razonamiento es válido o no, dependiendo
+las circunstancias o el ambiente, como son las proposiciones lógicas en las cuales unas son verdaderas y otras falsas.
+Los algoritmos son secuencias de pasos ordenados para llevar a cabo una acción.
+La programación es la acción de llevar a cabo una serie de pasos con el fin de generar código fuente de un programa con la 
+ayuda de un lenguaje definido.
+Los editores de texto y entornos de desarrollo nos ayudan a programar, ya que es la base donde escribiremos el código.
+
+
+

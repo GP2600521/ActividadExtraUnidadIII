@@ -1,0 +1,9 @@
+Resumen de Segunda Unidad
+Se tomo como ejemplo el lenguaje de programación JavaScript.
+Las variables son datos que se almacenan en memoria y pueden cambiar el valor de la misma durante la ejecución del programa.
+Un tipo de datos es una clasificación que define los posibles valores y operaciones que se pueden realizar, hay de diferentes tipos
+de operaciones que se pueden realizar como operaciones numéricas (suma, resta, multiplicación, división, residuo), operaciones
+comparativas (igual, mayor, menor, etc.), operaciones lógicas (and, or, not).
+Hay tipos de datos lógicos, los cuales solo tienen como valor verdadero o falso.
+Estructuras de control condicionales, como el if y else, la cual hace una acción si una condición se cumple. Está el caso del switch-case, dependiendo una opción se ejecuta un determinado caso.
+Estructuras de control de bucles, las cuales se repetirán un número definido de veces mientras una condición se cumpla.

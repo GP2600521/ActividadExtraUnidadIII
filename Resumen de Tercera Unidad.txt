@@ -1,0 +1,6 @@
+Resumen de Tercera Unidad
+
+Controladores de versiones, nos ayudan a revisar un historial de código que se ha ido programando, con el fin de llevar un mejor registro
+de los mismos.
+Se utiliza Git para ir viendo el historial y GitHub para almacenar ese código.
+Hay instrucciones básicas, como crear un repositorio, indicar si es publico o privado, sentencias para subir el archivo, para hacer commit el cual indica con un pequeño mensaje porque se hizo ese cambio y un push para subirlo a GitHub.
